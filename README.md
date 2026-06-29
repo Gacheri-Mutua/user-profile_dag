@@ -1,1 +1,1 @@
-# user-profile_dag
+An Apache Airflow-orchestrated ETL pipeline that consolidates an entire extraction, transformation, and loading workflow into a single execution block. It automates the collection of mock user profile data, normalizes nested JSON data structures into flat tables, and updates a PostgreSQL database every 10 minutes.# user-profile_dag
